@@ -1,6 +1,6 @@
 # SB_STRS
 ## Special Topics in Remote Sensing
-### Unsupervised Classification of Erdek
+### Unsupervised Classification
 #### Personal Homework
 ##### REPORT
 
