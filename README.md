@@ -44,6 +44,7 @@
  ### REFERENCES
  
  -GEE Tutorial Playlist by Qiusheng Wu: https://youtube.com/playlist?list=PLAxJ4-o7ZoPccOFv1dCwvGI6TYnirRTg3
+ 
  -Yeni Başlayanlar İçin 80 Dakikada GitHub by Arin Yazılım: https://youtu.be/ihoPT325jyk?t=2309
  
  
