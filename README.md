@@ -33,12 +33,12 @@
  - SR_APP_VERSION: LaSRC_1.3.0
  - WRS_PATH: 181
  - WRS_ROW: 32
- - system:asset_size: '581.571197 MB
- - system:band_names: ['B1', 'B2', 'B3', 'B4', 'B5', 'B6', 'B7']
- - system:id: 'LANDSAT/LC08/C01/T1_SR/LC08_181032_20180703
- - system:index: 'LC08_181032_20180703
- - system:time_end: '2018-07-03 08:51:03
- - system:time_start: '2018-07-03 08:51:03
- - system:version: 1532420079156771
+ - system asset_size: '581.571197 MB
+ - system band_names: ['B1', 'B2', 'B3', 'B4', 'B5', 'B6', 'B7']
+ - system id: 'LANDSAT/LC08/C01/T1_SR/LC08_181032_20180703
+ - system index: 'LC08_181032_20180703
+ - system time_end: '2018-07-03 08:51:03
+ - system time_start: '2018-07-03 08:51:03
+ - system version: 1532420079156771
  
  
