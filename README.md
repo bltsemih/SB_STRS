@@ -2,7 +2,7 @@
 ## Special Topics in Remote Sensing
 ### Unsupervised Classification of Erdek
 #### Personal Homework
-##### Semih Bulut
+##### REPORT
 
 - Within the scope of the project in which Erdek Island and its surroundings were classified, application was made with python code using Google Earth Engine API.
 - Using Jupyter Notebook, during operations with Python codes; "geemap", "ee" and "os" libraries and "earthengine api" are used.
@@ -41,4 +41,4 @@
  - system time_start: '2018-07-03 08:51:03
  - system version: 1532420079156771
  
- 
+ ###### Semih Bulut
